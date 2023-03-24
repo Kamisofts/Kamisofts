@@ -5,7 +5,8 @@
 - 🔭 I have worked on Verden app [IOS](https://apps.apple.com/pk/app/verden-breathe-begin-again/id1609194633) and  [Android](https://play.google.com/store/apps/details?id=com.verdenlimited.verden&hl=en&gl=GB) 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 👨‍💻 All of my projects are available at [repos](https://github.com/Kamiii75)
-- 💬 Ask me about **Flutter, Dart, Java**<br><br>- 📫 How to reach me **Kamisofts@gmail.com**
+- 💬 Ask me about **Flutter, Dart, Java**
+- 📫 How to reach me **Kamisofts@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1o0x3E7Nc2dWOo4Rcbzx3G8lKdPOpf4ts/view?usp=drivesdk)
 - ⚡ Fun fact **I love coding and learning new technologies.**
 
