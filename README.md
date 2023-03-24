@@ -18,4 +18,24 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Kamiii75&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+##
+
+### Github
+
+<div align="center">
+  <a href="https://github.com/Kamiii75">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamiii75&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Last-dreamer&layout=compact&langs_count=20&theme=dracula"/>
+</div>
+
+
+
+
+ ##
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+     
+
+
+
+
