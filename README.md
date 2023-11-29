@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [repos](https://github.com/Kamiii75)
 - 💬 Ask me about **Flutter, Dart, Java**
 - 📫 How to reach me **Kamisofts@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1o0x3E7Nc2dWOo4Rcbzx3G8lKdPOpf4ts/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qJfpeLG_oCDnoyxGkXnPQZLOGcpoqUDe/view?usp=sharing)
 - ⚡ Fun fact **I love coding and learning new technologies.**
 
 
